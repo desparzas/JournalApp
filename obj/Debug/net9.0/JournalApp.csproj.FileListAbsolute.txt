@@ -1,0 +1,14 @@
+D:\dev\byu\cse210\week02\JournalApp\bin\Debug\net9.0\JournalApp.exe
+D:\dev\byu\cse210\week02\JournalApp\bin\Debug\net9.0\JournalApp.deps.json
+D:\dev\byu\cse210\week02\JournalApp\bin\Debug\net9.0\JournalApp.runtimeconfig.json
+D:\dev\byu\cse210\week02\JournalApp\bin\Debug\net9.0\JournalApp.dll
+D:\dev\byu\cse210\week02\JournalApp\bin\Debug\net9.0\JournalApp.pdb
+D:\dev\byu\cse210\week02\JournalApp\obj\Debug\net9.0\JournalApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\byu\cse210\week02\JournalApp\obj\Debug\net9.0\JournalApp.AssemblyInfoInputs.cache
+D:\dev\byu\cse210\week02\JournalApp\obj\Debug\net9.0\JournalApp.AssemblyInfo.cs
+D:\dev\byu\cse210\week02\JournalApp\obj\Debug\net9.0\JournalApp.csproj.CoreCompileInputs.cache
+D:\dev\byu\cse210\week02\JournalApp\obj\Debug\net9.0\JournalApp.dll
+D:\dev\byu\cse210\week02\JournalApp\obj\Debug\net9.0\refint\JournalApp.dll
+D:\dev\byu\cse210\week02\JournalApp\obj\Debug\net9.0\JournalApp.pdb
+D:\dev\byu\cse210\week02\JournalApp\obj\Debug\net9.0\JournalApp.genruntimeconfig.cache
+D:\dev\byu\cse210\week02\JournalApp\obj\Debug\net9.0\ref\JournalApp.dll
